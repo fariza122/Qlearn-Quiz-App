@@ -1,16 +1,6 @@
-# learning_app
+# Qlearn Quiz App for learning purpose using Flutter Firebase and Getx for state management. 
 
-A new Flutter project.
+It's not just UI, it also includes backend for submitting data and retrieving data from firebase. Other complex operations like storing data, retrieving data, firebase batch operation, image uploading, google sign in, using getx for state management.
+## Demo of the App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[e43fe732-11e4-4e7c-8bb5-dd22af8113c4.webm](https://github.com/fariza122/Qlearn-quiz-app/assets/67227952/3ab05f2e-6f64-426e-ba7d-71a95a27030f)
